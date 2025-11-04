@@ -1,0 +1,15 @@
+{
+  "version": "20251104_001",
+  "firmware": {
+    "file": "Libtest.ino.bin",
+    "size": 1036416,
+    "hmac": "5b28b7e609e2ee429d97eff58b33d7a46a4504211fab8ca7ec2f3e09c72ba74b"
+  },
+  "data": [
+    {
+      "file": "Libtest/data/test.txt",
+      "size": 6,
+      "hmac": "1f48967ad34825b628a89a9c6374f98348458ccad39706f5c74b9858ac0eeabe"
+    }
+  ]
+}
