@@ -7,10 +7,10 @@
   },
   "data": [
     {
-      "file": "Libtest/data/test.txt",
+      "file": "data/test.txt",
       "size": 6,
       "hmac": "1f48967ad34825b628a89a9c6374f98348458ccad39706f5c74b9858ac0eeabe"
     }
   ],
-  "signature": "561f19d6dc5f0cd313c09b7c181ff805b015d741bef672612b9673b05536d9a1"
+  "signature": "6ebdc78f2d4d1994e487b5c29eb8e6e86a4d2572775945773adbe1f177551559"
 }
