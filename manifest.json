@@ -1,5 +1,5 @@
 {
-  "version": "20251108_001",
+  "version": "20251108_002",
   "firmware": {
     "file": "Libtest.ino.bin",
     "size": 1039856,
@@ -12,5 +12,5 @@
       "hmac": "1f48967ad34825b628a89a9c6374f98348458ccad39706f5c74b9858ac0eeabe"
     }
   ],
-  "signature": "f8fddc069e63f29a922f5d164ac61939990ccb62dae933c3f875a4f18547476b"
+  "signature": "bbd0bfd20b2801a84928ecad8442962bb8fc4b5a5039565ec9270fd05ea7969c"
 }
